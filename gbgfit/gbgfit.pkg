@@ -1,0 +1,8 @@
+D 'gbgfit': Generalized Beta (Type 2) distribution to grouped data via ML Use gbgfit With STATA 18
+D
+F dagfit.ado
+F dagfit.hlp
+F dagfit_ll.ado
+F gbgfit.ado
+F gbgfit.hlp
+F gbgfit_ll.ado
