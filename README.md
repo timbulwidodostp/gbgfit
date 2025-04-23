@@ -1,5 +1,7 @@
 # gbgfit
-Generalized Beta (Type 2) distribution to grouped data via ML Use gbgfit With STATA 18
+Generalized Beta (Type 2) distribution to grouped data via ML Use gbgfit With STATA 19
+
+https://www.youtube.com/watch?v=Jdu-wpOsat0
 
 Olah Data Semarang
 
